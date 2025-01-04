@@ -65,7 +65,7 @@ export default function Home() {
                             <PiTwitterLogoThin size={50} />
                         </div>
                         <div className="bg-[#131315] text-white shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] hover:bg-[#e11d48] hover:text-white rounded-3xl p-4">
-                            <Link href="https://drive.google.com/file/d/1K16SdD8-v_sTL4KNTMu5WiYLRPJqPvQO/view?usp=sharing"><PiFileTextThin size={50} /></Link>
+                            <Link href="https://drive.google.com/file/d/1E0CvYBxb99s_jnEV2S7R48pQHEG2TEOU/view?usp=drivesdk"><PiFileTextThin size={50} /></Link>
                         </div>
                     </div>
                     <div className="bg-[#131315] text-white shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-2xl py-8 px-5 flex flex-row justify-between items-center">
