@@ -124,7 +124,7 @@ export default function Home() {
                         Little Bit About Me ...
                     </h1>
                     <h1 className="sm:w-4/6 text-lg font-mono text-center sm:text-left opacity-70">
-                    Hi there! I’m Saurabh Dhyani, a Software Engineer, Full-Stack Web Developer, and your friendly neighborhood Night Writer—think Knight Rider, but with fewer car chases and more midnight coding sessions.
+                    Hi there! I’m Saurabh Dhyani, a Software Engineer, Full-Stack Web Developer, and your friendly neighborhood  <i>Night Writer</i> — think<i> Knight Rider</i>, but with fewer car chases and more midnight coding sessions.
 
 With over 2 years of experience and a knack for problem-solving, I’ve tackled 200+ coding challenges on platforms like LeetCode, GeeksforGeeks, and Coding Ninjas. Whether it’s untangling tricky algorithms or designing seamless web experiences, I thrive when the world is asleep, turning ideas into reality one line of code at a time.
 

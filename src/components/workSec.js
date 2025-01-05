@@ -32,7 +32,7 @@ export default function WorkSec() {
                         <div className=" max-w-full min-h-full rounded-2xl max-h-full sm:mb-6 overflow-hidden sm:mx-3">
                             <Image
                                 className=" overflow-hidden h-80 sm:h-auto object-cover min-w-full group-hover:scale-105 transition-all  rounded-2xl"
-                                src="/Screenshot 2025-01-04 214654.png"
+                                src="/chat-app.png"
                                 height={1000}
                                 width={1000}
                                 alt="img"
